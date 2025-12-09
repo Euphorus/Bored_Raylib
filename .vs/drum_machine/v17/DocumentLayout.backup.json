@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\drum_machine\\",
+  "WorkspaceRootPath": "C:\\Users\\lonew\\OneDrive\\Documents\\GitHub\\Bored_Raylib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7D415CD-A167-44BC-BAE3-2FEACB31D1E0}|drum_machine.vcxproj|D:\\drum_machine\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F7D415CD-A167-44BC-BAE3-2FEACB31D1E0}|drum_machine.vcxproj|C:\\Users\\lonew\\OneDrive\\Documents\\GitHub\\Bored_Raylib\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F7D415CD-A167-44BC-BAE3-2FEACB31D1E0}|drum_machine.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,10 +20,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\drum_machine\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\lonew\\OneDrive\\Documents\\GitHub\\Bored_Raylib\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\drum_machine\\main.cpp*",
-              "RelativeToolTip": "main.cpp*",
+              "ToolTip": "C:\\Users\\lonew\\OneDrive\\Documents\\GitHub\\Bored_Raylib\\main.cpp",
+              "RelativeToolTip": "main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-12-09T08:56:14.05Z",

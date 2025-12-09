@@ -1,2 +1,4 @@
 D:\drum_machine\x64\Debug\raylib.dll
 D:\drum_machine\drum_machine\x64\Debug\drum_mac.916F124E.Up2Date
+C:\Users\lonew\OneDrive\Documents\GitHub\Bored_Raylib\x64\Debug\raylib.dll
+C:\Users\lonew\OneDrive\Documents\GitHub\Bored_Raylib\drum_machine\x64\Debug\drum_mac.916F124E.Up2Date
